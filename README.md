@@ -14,7 +14,7 @@ Hi! I'm *Piyush Kumar*, a passionate **web developer** and tech enthusiast.
 - 💻 Skilled in the *MERN stack* with a focus on building scalable applications
 - 🚀 Passionate about solving challenges and exploring innovative technologies to create impactful solutions
 - 👀 *Profile Views*:  
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">  
+  <img src="https://komarev.com/ghpvc/?username=Piyush29quanta&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">  
 
 ---
 
@@ -37,24 +37,24 @@ Hi! I'm *Piyush Kumar*, a passionate **web developer** and tech enthusiast.
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush29quanta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush29quanta&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush29quanta&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=2&title=Commits,Repositories" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Piyush29quanta&theme=tokyonight&no-frame=true&column=2&title=Commits,Repositories" alt="GitHub Trophies"/>
 </div>
 
 ## 📊 Languages & Coding Stats
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=tokyonight" height="200" alt="Productivity Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush29quanta&theme=tokyonight&layout=pie" height="200" alt="Languages Pie Chart"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush29quanta&theme=tokyonight" height="200" alt="Productivity Stats"/>
 </div>
 
 ---
