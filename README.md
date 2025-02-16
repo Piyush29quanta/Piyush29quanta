@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# ✨ Welcome to My GitHub Profile! ✨  
+✨ Welcome to My GitHub Profile! ✨  
 
 ## 👋 About Me  
 Hi! I'm *Piyush Kumar*, a passionate **web developer** and tech enthusiast.  
