@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Piyush29quanta/Piyush29quanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -99,4 +98,4 @@ I enjoy solving puzzles and tackling coding challenges—it's both fun and rewar
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
